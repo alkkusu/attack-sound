@@ -10,4 +10,4 @@ Volume can be set on a range from 0 to 127.
 ### Mute Duration
 Choose how often a sound can be played. For example, I have this set to 3800 to know to alch after every other attack while killing crabs.
 ### Play sounds only when focused
-If enabled sounds can only play if you have the window in focus. If disabled sounds will play in the background.
+If enabled sounds will only play if you have the window in focus. If disabled sounds will play in the background.
