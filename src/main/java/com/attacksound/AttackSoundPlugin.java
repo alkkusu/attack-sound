@@ -3,7 +3,6 @@ package com.attacksound;
 import com.google.inject.Provides;
 import javax.inject.Inject;
 
-import jdk.internal.org.jline.utils.Log;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.events.StatChanged;
 import net.runelite.api.Skill;
